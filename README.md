@@ -32,7 +32,6 @@ if __name__ == "__main__":
 ```
 
 ## Related Products
-* [Building Django 2.0 Web Applications](https://www.packtpub.com/web-development/building-django-20-web-applications?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787286214)
 
 * [Django RESTful Web Services](https://www.packtpub.com/web-development/django-restful-web-services?utm_source=GitHub&utm_medium=repo&utm_campaign=9781788833929)
 
